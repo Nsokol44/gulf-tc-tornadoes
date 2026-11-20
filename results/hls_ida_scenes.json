@@ -1,0 +1,247 @@
+{
+  "scenes": {
+    "aug2021": [
+      {
+        "id": "HLS.S30.T15RYP.2021215T163839.v2.0",
+        "datetime": "2021-08-03 16:55:14.497080+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021217T162901.v2.0",
+        "datetime": "2021-08-05 16:45:17.598100+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021217T162901.v2.0",
+        "datetime": "2021-08-05 16:45:19.856960+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021220T163901.v2.0",
+        "datetime": "2021-08-08 16:55:12.821480+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021220T163901.v2.0",
+        "datetime": "2021-08-08 16:55:15.798510+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021222T162839.v2.0",
+        "datetime": "2021-08-10 16:45:15.364670+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021222T162839.v2.0",
+        "datetime": "2021-08-10 16:45:17.625000+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021225T163839.v2.0",
+        "datetime": "2021-08-13 16:55:10.412570+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021225T163839.v2.0",
+        "datetime": "2021-08-13 16:55:13.394950+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021227T162901.v2.0",
+        "datetime": "2021-08-15 16:45:17.166430+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021227T162901.v2.0",
+        "datetime": "2021-08-15 16:45:19.424100+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021230T163901.v2.0",
+        "datetime": "2021-08-18 16:55:12.486000+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021232T162829.v2.0",
+        "datetime": "2021-08-20 16:45:13.876110+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021232T162829.v2.0",
+        "datetime": "2021-08-20 16:45:16.131390+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021235T163839.v2.0",
+        "datetime": "2021-08-23 16:55:08.818060+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021235T163839.v2.0",
+        "datetime": "2021-08-23 16:55:11.785040+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021237T162901.v2.0",
+        "datetime": "2021-08-25 16:45:16.621070+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021237T162901.v2.0",
+        "datetime": "2021-08-25 16:45:18.879710+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021242T162829.v2.0",
+        "datetime": "2021-08-30 16:45:14.110270+00:00",
+        "tile": null,
+        "resumed_from_disk": true
+      }
+    ],
+    "sep2021": [
+      {
+        "id": "HLS.S30.T16RBU.2021245T163839.v2.0",
+        "datetime": "2021-09-02 16:55:06.618120+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021245T163839.v2.0",
+        "datetime": "2021-09-02 16:55:09.568600+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021247T162901.v2.0",
+        "datetime": "2021-09-04 16:45:15.454570+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021247T162901.v2.0",
+        "datetime": "2021-09-04 16:45:17.711960+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021250T163901.v2.0",
+        "datetime": "2021-09-07 16:55:10.454300+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021250T163901.v2.0",
+        "datetime": "2021-09-07 16:55:13.430530+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021252T162829.v2.0",
+        "datetime": "2021-09-09 16:45:11.073590+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021252T162829.v2.0",
+        "datetime": "2021-09-09 16:45:13.326320+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021255T163839.v2.0",
+        "datetime": "2021-09-12 16:55:06.390060+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021255T163839.v2.0",
+        "datetime": "2021-09-12 16:55:09.360190+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021260T163941.v2.0",
+        "datetime": "2021-09-17 16:55:12.111640+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021260T163941.v2.0",
+        "datetime": "2021-09-17 16:55:15.090040+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021262T162849.v2.0",
+        "datetime": "2021-09-19 16:45:11.530370+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021262T162849.v2.0",
+        "datetime": "2021-09-19 16:45:13.783550+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021265T163909.v2.0",
+        "datetime": "2021-09-22 16:55:07.793800+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021265T163909.v2.0",
+        "datetime": "2021-09-22 16:55:10.763010+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021267T163021.v2.0",
+        "datetime": "2021-09-24 16:45:18.113500+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021267T163021.v2.0",
+        "datetime": "2021-09-24 16:45:20.376770+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T16RBU.2021270T164051.v2.0",
+        "datetime": "2021-09-27 16:55:14.026030+00:00",
+        "tile": null
+      },
+      {
+        "id": "HLS.S30.T15RYP.2021270T164051.v2.0",
+        "datetime": "2021-09-27 16:55:17.027350+00:00",
+        "tile": null
+      }
+    ]
+  },
+  "checks": {
+    "footprint_veg_pixels": 721,
+    "aug2021_footprint_mean_ndvi": 0.5660138373236054,
+    "sep2021_footprint_mean_ndvi": 0.49198671319779014,
+    "mean_ndvi_change": -0.07402713580286949,
+    "groups": {
+      "west": {
+        "polygons": 8,
+        "veg_pixels": 342,
+        "aug_ndvi": 0.5558850765228271,
+        "sep_ndvi": 0.44314107298851013,
+        "change": -0.11274407804012299
+      },
+      "middle": {
+        "polygons": 5,
+        "veg_pixels": 200,
+        "aug_ndvi": 0.6020093560218811,
+        "sep_ndvi": 0.5515685677528381,
+        "change": -0.050440769642591476
+      },
+      "east": {
+        "polygons": 5,
+        "veg_pixels": 179,
+        "aug_ndvi": 0.5451475381851196,
+        "sep_ndvi": 0.5187399983406067,
+        "change": -0.02640746533870697
+      }
+    },
+    "note": "S30-only raster monthly medians over footprint polygons; the analysis used S30+L30 point sampling, so values should be close to, not identical to, the reported 0.568 (Aug) and 0.487 (Sep)."
+  }
+}

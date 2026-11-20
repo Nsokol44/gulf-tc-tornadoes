@@ -1,0 +1,24 @@
+{
+  "milton": {
+    "storm": "milton",
+    "landfall": "2024-10-10",
+    "n_clusters": 5,
+    "chosen_cluster_ha": 32.244,
+    "excluded_cluster_ha": 54.148,
+    "total_marsh_ha": 86.393,
+    "immediate_anomaly": 0.012207635748709311,
+    "immediate_month": "2024-11",
+    "recovery_slope_per_month": 0.002246438267648389,
+    "recovery_r2": 0.3098953295874962,
+    "recovery_n_months": 15,
+    "sensor_mix_note": "per-scene mix counted during sampling; see storm log",
+    "cloud_gap_months": [
+      "2026-03"
+    ],
+    "footprint_marsh_ha_cluster": 32.244,
+    "reference_marsh_ha": 335.726,
+    "veg_pixels_fp": 360,
+    "veg_pixels_ref": 3734,
+    "method": "point sampling at 30 m zone pixels, monthly median per pixel, zone mean; step3c_points.py"
+  }
+}

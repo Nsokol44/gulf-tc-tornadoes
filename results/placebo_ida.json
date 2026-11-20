@@ -1,0 +1,16 @@
+{
+ "design": "200 coherent pseudo-footprint patches of 716 vegetated pixels in the untouched reference marsh; pipeline npz pixel values; coordinates from the rebuilt grid paired by scan-order rank (logged amendment); seed numpy default_rng(20261107); estimand identical to the pipeline swing",
+ "n_draws": 200,
+ "seed": 20261107,
+ "observed_swing": -0.07359864850691308,
+ "placebo_median": -0.0021021886712478434,
+ "placebo_q1": -0.010775567301326231,
+ "placebo_q3": 0.0095791188231148,
+ "placebo_p2_5": -0.028977783874746123,
+ "placebo_p97_5": 0.04615841753327518,
+ "placebo_min": -0.030680826753032055,
+ "placebo_max": 0.05468116596505258,
+ "share_at_or_below_observed": 0.0,
+ "observed_percentile": 0.0,
+ "clears_placebo_at_5pct": true
+}

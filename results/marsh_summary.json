@@ -1,0 +1,69 @@
+{
+  "ida": {
+    "storm": "ida",
+    "landfall": "2021-08-29",
+    "n_clusters": 5,
+    "chosen_cluster_ha": 64.425,
+    "excluded_cluster_ha": 15.324,
+    "total_marsh_ha": 79.749,
+    "immediate_anomaly": -0.038640807623477436,
+    "immediate_month": "2021-09",
+    "recovery_slope_per_month": -6.115273030310141e-05,
+    "recovery_r2": 0.0003616538559332305,
+    "recovery_n_months": 16,
+    "sensor_mix_note": "per-scene mix counted during sampling; see storm log",
+    "cloud_gap_months": [],
+    "footprint_marsh_ha_cluster": 64.425,
+    "reference_marsh_ha": 591.274,
+    "veg_pixels_fp": 716,
+    "veg_pixels_ref": 6508,
+    "method": "point sampling at 30 m zone pixels, monthly median per pixel, zone mean; step3c_points.py"
+  },
+  "ian": {
+    "storm": "ian",
+    "status": "dropped_insufficient_marsh",
+    "marsh_ha": 0.245
+  },
+  "helene": {
+    "storm": "helene",
+    "landfall": "2024-09-27",
+    "n_clusters": 1,
+    "chosen_cluster_ha": 5.984,
+    "excluded_cluster_ha": 0.0,
+    "total_marsh_ha": 5.984,
+    "immediate_anomaly": 0.09819161481920824,
+    "immediate_month": "2024-10",
+    "recovery_slope_per_month": -0.0002936053485412272,
+    "recovery_r2": 0.00041669558652779326,
+    "recovery_n_months": 16,
+    "sensor_mix_note": "per-scene mix counted during sampling; see storm log",
+    "cloud_gap_months": [],
+    "footprint_marsh_ha_cluster": 5.984,
+    "reference_marsh_ha": 541.359,
+    "veg_pixels_fp": 71,
+    "veg_pixels_ref": 5474,
+    "method": "point sampling at 30 m zone pixels, monthly median per pixel, zone mean; step3c_points.py"
+  },
+  "milton": {
+    "storm": "milton",
+    "landfall": "2024-10-10",
+    "n_clusters": 5,
+    "chosen_cluster_ha": 32.244,
+    "excluded_cluster_ha": 54.148,
+    "total_marsh_ha": 86.393,
+    "immediate_anomaly": 0.012207635748709311,
+    "immediate_month": "2024-11",
+    "recovery_slope_per_month": 0.002246438267648389,
+    "recovery_r2": 0.3098953295874962,
+    "recovery_n_months": 15,
+    "sensor_mix_note": "per-scene mix counted during sampling; see storm log",
+    "cloud_gap_months": [
+      "2026-03"
+    ],
+    "footprint_marsh_ha_cluster": 32.244,
+    "reference_marsh_ha": 335.726,
+    "veg_pixels_fp": 360,
+    "veg_pixels_ref": 3734,
+    "method": "point sampling at 30 m zone pixels, monthly median per pixel, zone mean; step3c_points.py"
+  }
+}

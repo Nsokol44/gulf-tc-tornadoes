@@ -1,0 +1,22 @@
+{
+  "ida": {
+    "storm": "ida",
+    "landfall": "2021-08-29",
+    "n_clusters": 5,
+    "chosen_cluster_ha": 64.425,
+    "excluded_cluster_ha": 15.324,
+    "total_marsh_ha": 79.749,
+    "immediate_anomaly": -0.038640807623477436,
+    "immediate_month": "2021-09",
+    "recovery_slope_per_month": -6.115273030310141e-05,
+    "recovery_r2": 0.0003616538559332305,
+    "recovery_n_months": 16,
+    "sensor_mix_note": "per-scene mix counted during sampling; see storm log",
+    "cloud_gap_months": [],
+    "footprint_marsh_ha_cluster": 64.425,
+    "reference_marsh_ha": 591.274,
+    "veg_pixels_fp": 716,
+    "veg_pixels_ref": 6508,
+    "method": "point sampling at 30 m zone pixels, monthly median per pixel, zone mean; step3c_points.py"
+  }
+}

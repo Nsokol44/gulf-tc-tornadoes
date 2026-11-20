@@ -1,0 +1,845 @@
+{
+  "eras": {
+    "study_1995_2015": [
+      1995,
+      2015
+    ],
+    "extension_2016_2025": [
+      2016,
+      2025
+    ]
+  },
+  "archives": {
+    "hurdat2_last_year": 2025,
+    "spc_last_year": 2025,
+    "tctor_last_year": 2023,
+    "tctor_rows_total": 1783,
+    "tctor_rows_1995_2015_current_release": 1298,
+    "spc_total_tornadoes_all_years": 73458,
+    "primary_sample_definition": "TCTOR (1995-2023, Gulf qualifying TCs, zero width dropped) plus broad operational rule, 800 km full track window (2024-2025)"
+  },
+  "by_era": {
+    "study_1995_2015": {
+      "tc_tornadoes": 1200,
+      "storms_with_tc_tornadoes": 62,
+      "all_us_tornadoes": 26080,
+      "tc_share_of_all_us_pct": 4.6,
+      "fatalities": 23,
+      "injuries": 295,
+      "all_us_fatalities": 1713,
+      "all_us_injuries": 23979,
+      "top_storm": "IVAN 2004",
+      "top_storm_tornadoes": 118,
+      "top_storm_share_pct": 9.83,
+      "by_attribution_source": {
+        "TCTOR": 1200
+      }
+    },
+    "extension_2016_2025": {
+      "tc_tornadoes": 545,
+      "storms_with_tc_tornadoes": 35,
+      "all_us_tornadoes": 13184,
+      "tc_share_of_all_us_pct": 4.13,
+      "fatalities": 12,
+      "injuries": 93,
+      "all_us_fatalities": 513,
+      "all_us_injuries": 5342,
+      "top_storm": "BERYL 2024",
+      "top_storm_tornadoes": 68,
+      "top_storm_share_pct": 12.48,
+      "by_attribution_source": {
+        "TCTOR": 369,
+        "OP800_operational": 176
+      }
+    }
+  },
+  "totals_1995_2025": {
+    "tc_tornadoes_primary": 1745,
+    "storms_primary": 97
+  },
+  "by_year": {
+    "1995": {
+      "tc_tornadoes": 62,
+      "storms_with_tc_tornadoes": 5,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1237,
+      "tc_fatalities": 1,
+      "tc_injuries": 7
+    },
+    "1996": {
+      "tc_tornadoes": 27,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1173,
+      "tc_fatalities": 0,
+      "tc_injuries": 1
+    },
+    "1997": {
+      "tc_tornadoes": 13,
+      "storms_with_tc_tornadoes": 1,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1148,
+      "tc_fatalities": 1,
+      "tc_injuries": 8
+    },
+    "1998": {
+      "tc_tornadoes": 86,
+      "storms_with_tc_tornadoes": 6,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1424,
+      "tc_fatalities": 2,
+      "tc_injuries": 96
+    },
+    "1999": {
+      "tc_tornadoes": 13,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1339,
+      "tc_fatalities": 0,
+      "tc_injuries": 5
+    },
+    "2000": {
+      "tc_tornadoes": 22,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1075,
+      "tc_fatalities": 1,
+      "tc_injuries": 6
+    },
+    "2001": {
+      "tc_tornadoes": 50,
+      "storms_with_tc_tornadoes": 4,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1215,
+      "tc_fatalities": 2,
+      "tc_injuries": 3
+    },
+    "2002": {
+      "tc_tornadoes": 43,
+      "storms_with_tc_tornadoes": 4,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 934,
+      "tc_fatalities": 0,
+      "tc_injuries": 1
+    },
+    "2003": {
+      "tc_tornadoes": 33,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1374,
+      "tc_fatalities": 0,
+      "tc_injuries": 4
+    },
+    "2004": {
+      "tc_tornadoes": 299,
+      "storms_with_tc_tornadoes": 5,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1817,
+      "tc_fatalities": 11,
+      "tc_injuries": 110
+    },
+    "2005": {
+      "tc_tornadoes": 237,
+      "storms_with_tc_tornadoes": 8,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1263,
+      "tc_fatalities": 2,
+      "tc_injuries": 33
+    },
+    "2006": {
+      "tc_tornadoes": 22,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1103,
+      "tc_fatalities": 0,
+      "tc_injuries": 1
+    },
+    "2007": {
+      "tc_tornadoes": 10,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1132,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2008": {
+      "tc_tornadoes": 137,
+      "storms_with_tc_tornadoes": 4,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1704,
+      "tc_fatalities": 2,
+      "tc_injuries": 5
+    },
+    "2009": {
+      "tc_tornadoes": 0,
+      "storms_with_tc_tornadoes": 0,
+      "attribution_source": null,
+      "all_us_tornadoes": 1162,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2010": {
+      "tc_tornadoes": 24,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1302,
+      "tc_fatalities": 0,
+      "tc_injuries": 2
+    },
+    "2011": {
+      "tc_tornadoes": 31,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1704,
+      "tc_fatalities": 0,
+      "tc_injuries": 5
+    },
+    "2012": {
+      "tc_tornadoes": 60,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 948,
+      "tc_fatalities": 1,
+      "tc_injuries": 7
+    },
+    "2013": {
+      "tc_tornadoes": 11,
+      "storms_with_tc_tornadoes": 1,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 916,
+      "tc_fatalities": 0,
+      "tc_injuries": 1
+    },
+    "2014": {
+      "tc_tornadoes": 0,
+      "storms_with_tc_tornadoes": 0,
+      "attribution_source": null,
+      "all_us_tornadoes": 928,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2015": {
+      "tc_tornadoes": 20,
+      "storms_with_tc_tornadoes": 1,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1182,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2016": {
+      "tc_tornadoes": 12,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 976,
+      "tc_fatalities": 0,
+      "tc_injuries": 3
+    },
+    "2017": {
+      "tc_tornadoes": 124,
+      "storms_with_tc_tornadoes": 6,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1442,
+      "tc_fatalities": 0,
+      "tc_injuries": 6
+    },
+    "2018": {
+      "tc_tornadoes": 27,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1138,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2019": {
+      "tc_tornadoes": 9,
+      "storms_with_tc_tornadoes": 3,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1534,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2020": {
+      "tc_tornadoes": 72,
+      "storms_with_tc_tornadoes": 6,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1090,
+      "tc_fatalities": 0,
+      "tc_injuries": 1
+    },
+    "2021": {
+      "tc_tornadoes": 92,
+      "storms_with_tc_tornadoes": 5,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1328,
+      "tc_fatalities": 1,
+      "tc_injuries": 45
+    },
+    "2022": {
+      "tc_tornadoes": 18,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1167,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    },
+    "2023": {
+      "tc_tornadoes": 15,
+      "storms_with_tc_tornadoes": 2,
+      "attribution_source": "TCTOR",
+      "all_us_tornadoes": 1321,
+      "tc_fatalities": 0,
+      "tc_injuries": 2
+    },
+    "2024": {
+      "tc_tornadoes": 176,
+      "storms_with_tc_tornadoes": 5,
+      "attribution_source": "OP800_operational",
+      "all_us_tornadoes": 1805,
+      "tc_fatalities": 11,
+      "tc_injuries": 36
+    },
+    "2025": {
+      "tc_tornadoes": 0,
+      "storms_with_tc_tornadoes": 0,
+      "attribution_source": null,
+      "all_us_tornadoes": 1383,
+      "tc_fatalities": 0,
+      "tc_injuries": 0
+    }
+  },
+  "named_storms": {
+    "Ida 2021": {
+      "hurdat2_id": "AL092021",
+      "max_wind_kt": 130,
+      "tc_tornadoes_primary": 36,
+      "primary_source": "TCTOR",
+      "tc_tornadoes_op800": 36,
+      "tc_tornadoes_r500": 33,
+      "tc_tornadoes_md2011": 18,
+      "fatalities_primary": 1,
+      "injuries_primary": 7,
+      "strong_2_3_primary": 4
+    },
+    "Ian 2022": {
+      "hurdat2_id": "AL092022",
+      "max_wind_kt": 140,
+      "tc_tornadoes_primary": 16,
+      "primary_source": "TCTOR",
+      "tc_tornadoes_op800": 16,
+      "tc_tornadoes_r500": 16,
+      "tc_tornadoes_md2011": 14,
+      "fatalities_primary": 0,
+      "injuries_primary": 0,
+      "strong_2_3_primary": 1
+    },
+    "Helene 2024": {
+      "hurdat2_id": "AL092024",
+      "max_wind_kt": 120,
+      "tc_tornadoes_primary": 31,
+      "primary_source": "OP800_operational",
+      "tc_tornadoes_op800": 31,
+      "tc_tornadoes_r500": 20,
+      "tc_tornadoes_md2011": 16,
+      "fatalities_primary": 2,
+      "injuries_primary": 16,
+      "strong_2_3_primary": 2
+    },
+    "Milton 2024": {
+      "hurdat2_id": "AL142024",
+      "max_wind_kt": 155,
+      "tc_tornadoes_primary": 45,
+      "primary_source": "OP800_operational",
+      "tc_tornadoes_op800": 45,
+      "tc_tornadoes_r500": 44,
+      "tc_tornadoes_md2011": 42,
+      "fatalities_primary": 6,
+      "injuries_primary": 14,
+      "strong_2_3_primary": 9
+    }
+  },
+  "weak_strong_tc_by_era": {
+    "study_1995_2015": {
+      "n": 1200,
+      "n_known": 1200,
+      "n_unknown": 0,
+      "weak_0_1": 1123,
+      "strong_2_3": 77,
+      "rating_4plus": 0,
+      "weak_share_pct": 93.58,
+      "strong_share_pct": 6.42
+    },
+    "extension_2016_2025": {
+      "n": 545,
+      "n_known": 528,
+      "n_unknown": 17,
+      "weak_0_1": 488,
+      "strong_2_3": 40,
+      "rating_4plus": 0,
+      "weak_share_pct": 92.42,
+      "strong_share_pct": 7.58
+    }
+  },
+  "weak_strong_tc_pooled": {
+    "n": 1745,
+    "n_known": 1728,
+    "n_unknown": 17,
+    "weak_0_1": 1611,
+    "strong_2_3": 117,
+    "rating_4plus": 0,
+    "weak_share_pct": 93.23,
+    "strong_share_pct": 6.77
+  },
+  "weak_strong_all_us_by_era": {
+    "study_1995_2015": {
+      "n": 26080,
+      "n_known": 26059,
+      "n_unknown": 21,
+      "weak_0_1": 23220,
+      "strong_2_3": 2687,
+      "rating_4plus": 152,
+      "weak_share_pct": 89.11,
+      "strong_share_pct": 10.31
+    },
+    "extension_2016_2025": {
+      "n": 13184,
+      "n_known": 11659,
+      "n_unknown": 1525,
+      "weak_0_1": 10243,
+      "strong_2_3": 1384,
+      "rating_4plus": 32,
+      "weak_share_pct": 87.85,
+      "strong_share_pct": 11.87
+    }
+  },
+  "ratings_tc_by_era": {
+    "study_1995_2015": {
+      "n": 1200,
+      "n_known": 1200,
+      "n_unknown": 0,
+      "weak_0_1": 1123,
+      "strong_2_3": 77,
+      "rating_4plus": 0,
+      "weak_share_pct": 93.58,
+      "strong_share_pct": 6.42,
+      "ef0": 774,
+      "ef1": 349,
+      "ef2": 74,
+      "ef3": 3,
+      "ef4": 0,
+      "ef5": 0,
+      "ef2plus_n": 77,
+      "ef3plus_n": 3,
+      "ef2plus_share_known": 6.42,
+      "ef3plus_share_known": 0.25
+    },
+    "extension_2016_2025": {
+      "n": 545,
+      "n_known": 528,
+      "n_unknown": 17,
+      "weak_0_1": 488,
+      "strong_2_3": 40,
+      "rating_4plus": 0,
+      "weak_share_pct": 92.42,
+      "strong_share_pct": 7.58,
+      "ef0": 285,
+      "ef1": 203,
+      "ef2": 33,
+      "ef3": 7,
+      "ef4": 0,
+      "ef5": 0,
+      "ef2plus_n": 40,
+      "ef3plus_n": 7,
+      "ef2plus_share_known": 7.58,
+      "ef3plus_share_known": 1.33
+    }
+  },
+  "ratings_all_us_by_era": {
+    "study_1995_2015": {
+      "n": 26080,
+      "n_known": 26059,
+      "n_unknown": 21,
+      "weak_0_1": 23220,
+      "strong_2_3": 2687,
+      "rating_4plus": 152,
+      "weak_share_pct": 89.11,
+      "strong_share_pct": 10.31,
+      "ef0": 16016,
+      "ef1": 7204,
+      "ef2": 2085,
+      "ef3": 602,
+      "ef4": 138,
+      "ef5": 14,
+      "ef2plus_n": 2839,
+      "ef3plus_n": 754,
+      "ef2plus_share_known": 10.89,
+      "ef3plus_share_known": 2.89
+    },
+    "extension_2016_2025": {
+      "n": 13184,
+      "n_known": 11659,
+      "n_unknown": 1525,
+      "weak_0_1": 10243,
+      "strong_2_3": 1384,
+      "rating_4plus": 32,
+      "weak_share_pct": 87.85,
+      "strong_share_pct": 11.87,
+      "ef0": 5337,
+      "ef1": 4906,
+      "ef2": 1136,
+      "ef3": 248,
+      "ef4": 31,
+      "ef5": 1,
+      "ef2plus_n": 1416,
+      "ef3plus_n": 280,
+      "ef2plus_share_known": 12.15,
+      "ef3plus_share_known": 2.4
+    }
+  },
+  "size_tc_by_era": {
+    "study_1995_2015": {
+      "path_length_km": {
+        "n": 1200,
+        "median": 1.61,
+        "q1": 0.483,
+        "q3": 4.641,
+        "mean": 3.592,
+        "max": 83.72
+      },
+      "path_width_m": {
+        "n": 1200,
+        "median": 45.7,
+        "q1": 27.42,
+        "q3": 73.12,
+        "mean": 71.837,
+        "max": 804.32
+      },
+      "dpi": {
+        "n": 1200,
+        "median": 0.028,
+        "q1": 0.006,
+        "q3": 0.17,
+        "mean": 0.356,
+        "max": 24.545
+      }
+    },
+    "extension_2016_2025": {
+      "path_length_km": {
+        "n": 545,
+        "median": 2.543,
+        "q1": 0.837,
+        "q3": 6.939,
+        "mean": 5.746,
+        "max": 105.396
+      },
+      "path_width_m": {
+        "n": 545,
+        "median": 68.58,
+        "q1": 45.7,
+        "q3": 137.16,
+        "mean": 126.384,
+        "max": 914.4
+      },
+      "dpi": {
+        "n": 528,
+        "median": 0.123,
+        "q1": 0.022,
+        "q3": 0.772,
+        "mean": 2.797,
+        "max": 186.938
+      }
+    }
+  },
+  "quadrants_true_north_pooled": {
+    "NE": {
+      "n": 1190,
+      "share_pct": 68.19
+    },
+    "SE": {
+      "n": 478,
+      "share_pct": 27.39
+    },
+    "SW": {
+      "n": 10,
+      "share_pct": 0.57
+    },
+    "NW": {
+      "n": 67,
+      "share_pct": 3.84
+    }
+  },
+  "quadrants_true_north_by_era": {
+    "study_1995_2015": {
+      "NE": {
+        "n": 785,
+        "share_pct": 65.42
+      },
+      "SE": {
+        "n": 349,
+        "share_pct": 29.08
+      },
+      "SW": {
+        "n": 7,
+        "share_pct": 0.58
+      },
+      "NW": {
+        "n": 59,
+        "share_pct": 4.92
+      }
+    },
+    "extension_2016_2025": {
+      "NE": {
+        "n": 405,
+        "share_pct": 74.31
+      },
+      "SE": {
+        "n": 129,
+        "share_pct": 23.67
+      },
+      "SW": {
+        "n": 3,
+        "share_pct": 0.55
+      },
+      "NW": {
+        "n": 8,
+        "share_pct": 1.47
+      }
+    }
+  },
+  "quadrants_offset45_pooled": {
+    "NoC": {
+      "n": 384,
+      "share_pct": 22.01
+    },
+    "EoC": {
+      "n": 1235,
+      "share_pct": 70.77
+    },
+    "SoC": {
+      "n": 115,
+      "share_pct": 6.59
+    },
+    "WoC": {
+      "n": 11,
+      "share_pct": 0.63
+    }
+  },
+  "halves_pooled": {
+    "ns": {
+      "NH": {
+        "n": 1257,
+        "share_pct": 72.03
+      },
+      "SH": {
+        "n": 488,
+        "share_pct": 27.97
+      }
+    },
+    "ew": {
+      "EH": {
+        "n": 1668,
+        "share_pct": 95.59
+      },
+      "WH": {
+        "n": 77,
+        "share_pct": 4.41
+      }
+    }
+  },
+  "coast_bins_pooled": {
+    "0-100": {
+      "n": 1008,
+      "share_pct": 57.77
+    },
+    "100-200": {
+      "n": 264,
+      "share_pct": 15.13
+    },
+    "200-300": {
+      "n": 200,
+      "share_pct": 11.46
+    },
+    ">300": {
+      "n": 273,
+      "share_pct": 15.64
+    }
+  },
+  "coast_bins_by_era": {
+    "study_1995_2015": {
+      "0-100": {
+        "n": 676,
+        "share_pct": 56.33
+      },
+      "100-200": {
+        "n": 210,
+        "share_pct": 17.5
+      },
+      "200-300": {
+        "n": 141,
+        "share_pct": 11.75
+      },
+      ">300": {
+        "n": 173,
+        "share_pct": 14.42
+      }
+    },
+    "extension_2016_2025": {
+      "0-100": {
+        "n": 332,
+        "share_pct": 60.92
+      },
+      "100-200": {
+        "n": 54,
+        "share_pct": 9.91
+      },
+      "200-300": {
+        "n": 59,
+        "share_pct": 10.83
+      },
+      ">300": {
+        "n": 100,
+        "share_pct": 18.35
+      }
+    }
+  },
+  "lat_bands_pooled": {
+    "<30": {
+      "n": 426,
+      "share_pct": 24.41
+    },
+    "30-32": {
+      "n": 400,
+      "share_pct": 22.92
+    },
+    "32-34": {
+      "n": 393,
+      "share_pct": 22.52
+    },
+    ">34": {
+      "n": 526,
+      "share_pct": 30.14
+    }
+  },
+  "annulus_from_centre_pooled_extra_not_in_2017_paper": {
+    "0-100": {
+      "n": 133,
+      "share_pct": 7.62
+    },
+    "100-200": {
+      "n": 276,
+      "share_pct": 15.82
+    },
+    "200-300": {
+      "n": 418,
+      "share_pct": 23.95
+    },
+    "300-400": {
+      "n": 429,
+      "share_pct": 24.58
+    },
+    "400-500": {
+      "n": 299,
+      "share_pct": 17.13
+    },
+    "500-600": {
+      "n": 113,
+      "share_pct": 6.48
+    },
+    "600-700": {
+      "n": 55,
+      "share_pct": 3.15
+    },
+    "700-800": {
+      "n": 22,
+      "share_pct": 1.26
+    }
+  },
+  "distance_km_pooled": {
+    "n": 1745,
+    "median": 316.486,
+    "q1": 206.761,
+    "q3": 413.711,
+    "mean": 316.365,
+    "max": 932.723
+  },
+  "coast_km_pooled": {
+    "n": 1745,
+    "median": 74.284,
+    "q1": 13.829,
+    "q3": 212.685,
+    "mean": 145.324,
+    "max": 1095.202
+  },
+  "single_storm_leverage": {
+    "soc_tornadoes_pooled": 115,
+    "rita_soc_tornadoes": 38,
+    "rita_share_of_soc_pct": 33.04,
+    "rita_total_primary": 97,
+    "ivan_total_primary": 118,
+    "note": "Moore et al. (2017), using the TCTOR version of their day, reported 100 south of centre tornadoes of which Rita (2005) produced 39, and 98 Rita tornadoes in total. The current TCTOR release gives Rita 97 tornadoes in total. Ivan is 118 in both the 2016 abstract and the current TCTOR release."
+  },
+  "sensitivity_rules": {
+    "op800_broad": {
+      "study_1995_2015": {
+        "tc_tornadoes": 1209,
+        "storms": 65
+      },
+      "extension_2016_2025": {
+        "tc_tornadoes": 545,
+        "storms": 37
+      }
+    },
+    "op500": {
+      "study_1995_2015": {
+        "tc_tornadoes": 1063,
+        "storms": 63
+      },
+      "extension_2016_2025": {
+        "tc_tornadoes": 482,
+        "storms": 34
+      }
+    },
+    "md2011_400km_landfall_window": {
+      "study_1995_2015": {
+        "tc_tornadoes": 396,
+        "storms": 23
+      },
+      "extension_2016_2025": {
+        "tc_tornadoes": 289,
+        "storms": 18
+      }
+    }
+  },
+  "agreement_tctor_vs_operational": {
+    "tctor_gulf_rows_1995_2023": 1577,
+    "op800": {
+      "operational_rows_1995_2023": 1578,
+      "matched": 1481,
+      "tctor_only": 96,
+      "operational_only": 97,
+      "jaccard_pct": 88.47,
+      "share_of_tctor_matched_pct": 93.91
+    },
+    "op500": {
+      "operational_rows_1995_2023": 1387,
+      "matched": 1325,
+      "tctor_only": 252,
+      "operational_only": 62,
+      "jaccard_pct": 80.84,
+      "share_of_tctor_matched_pct": 84.02
+    },
+    "md2011": {
+      "operational_rows_1995_2023": 553,
+      "matched": 531,
+      "tctor_only": 1046,
+      "operational_only": 22,
+      "jaccard_pct": 33.21,
+      "share_of_tctor_matched_pct": 33.67
+    }
+  },
+  "interpolation_check_vs_tctor": {
+    "n_compared": 1529,
+    "n_tctor_rows_without_hurdat_window": 40,
+    "median_abs_distance_diff_km": 0.386,
+    "p90_abs_distance_diff_km": 0.981
+  }
+}

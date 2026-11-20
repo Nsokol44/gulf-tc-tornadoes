@@ -1,0 +1,58 @@
+{
+  "ida": {
+    "n_paths": 36,
+    "footprint_ha": 3508.63,
+    "nwi_polys_bbox": 21383,
+    "marsh_ha_in_paths": 79.749,
+    "woody_ha_in_paths": 0.0,
+    "paths_crossing_marsh": 9,
+    "bbox": [
+      -89.90271656911344,
+      30.155896654127076,
+      -70.16331705749262,
+      41.792703226033
+    ]
+  },
+  "ian": {
+    "n_paths": 16,
+    "footprint_ha": 773.05,
+    "nwi_polys_bbox": 5759,
+    "marsh_ha_in_paths": 0.245,
+    "woody_ha_in_paths": 0.0,
+    "paths_crossing_marsh": 2,
+    "bbox": [
+      -81.14142781112338,
+      25.74984686192845,
+      -76.65754987279004,
+      35.38252781054208
+    ]
+  },
+  "helene": {
+    "n_paths": 29,
+    "footprint_ha": 9550.6,
+    "nwi_polys_bbox": 20120,
+    "marsh_ha_in_paths": 5.984,
+    "woody_ha_in_paths": 0.0,
+    "paths_crossing_marsh": 3,
+    "bbox": [
+      -82.70732025879842,
+      27.977574401558396,
+      -77.74888924485809,
+      37.369999997484555
+    ]
+  },
+  "milton": {
+    "n_paths": 45,
+    "footprint_ha": 13366.58,
+    "nwi_polys_bbox": 36688,
+    "marsh_ha_in_paths": 86.393,
+    "woody_ha_in_paths": 1.778,
+    "paths_crossing_marsh": 6,
+    "bbox": [
+      -82.25678801966751,
+      24.49394257233269,
+      -80.12728744490155,
+      28.44025705228998
+    ]
+  }
+}

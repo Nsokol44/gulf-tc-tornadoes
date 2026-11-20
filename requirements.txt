@@ -1,0 +1,15 @@
+# Dependencies for the Angle 2 analysis pipeline (Python 3.12).
+# Versions are the library families the code imports; the pipeline was
+# built and run against the then-current releases in November 2026.
+numpy
+pandas
+geopandas
+shapely
+pyproj
+rasterio
+scipy
+matplotlib
+pystac-client
+planetary-computer
+pyarrow
+xlrd
