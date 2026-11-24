@@ -1,11 +1,43 @@
-# Gulf Coast tropical-cyclone tornadoes revisited: code and derived tables
+# Gulf and Atlantic Coast tropical-cyclone tornadoes revisited: code and derived tables
 
 Analysis code and derived tables for:
 
-Nicholas J. Sokol, "Gulf Coast tropical-cyclone tornadoes revisited:
-spatial distributions, intensity, and satellite-observed marsh damage
-and recovery." Submitted to *Physical Geography* on 19 November 2026
-(Submission ID 267343579). Sole author.
+Nicholas J. Sokol, "Gulf and Atlantic Coast tropical-cyclone tornadoes
+revisited: spatial distributions, intensity, land cover, and
+satellite-observed marsh damage and recovery." Submitted to *Physical
+Geography* on 19 November 2026 (Submission ID 267343579); major-revision
+resubmission filed in November 2026. Sole author.
+
+## Major revision (24 November 2026)
+
+The manuscript was revised after the editor's decision of 23 November
+2026. The revision expands the climatology from the Gulf Coast to the
+Gulf and Atlantic coasts (1,772 tornadoes from 114 storms), restricts
+the record to case-verified TCTOR years (1995-2023; the rule-based
+2024-2025 attribution used in the original submission was removed, and
+the strong-tornado era difference is now reported as -0.8 percentage
+points, 95 percent CI -3.1 to +2.0, p = 0.56), adds an NLCD 2021
+land-cover stratification of every tornado footprint, reframes the
+satellite marsh analysis as a proof-of-concept extension, and adds two
+verified-era trajectory cases (Idalia 2023 and Florence 2018, the
+latter HLS-equivalent) to Ida, Helene, and Milton. The revision's code
+and results are under `revision-2026-11/`:
+
+- `analysis-code/` — the two-coast sample build, climatology,
+  NLCD fetch and land-cover classification, case screening, and
+  figure-data pipeline (`run_all.py` orchestrates).
+- `case-code/` — the Idalia and Florence trajectory builds.
+- `figure-scripts/` — the six manuscript figures (sample map, era
+  comparison, land-cover map, case marsh maps, satellite NDVI
+  imagery, NDVI trajectories).
+- `build-scripts/` — the manuscript DOCX build, format
+  normalization, table-width fix, and verification scripts.
+- `results/` and `case-results/` — the revision's derived tables
+  (era totals, intensity, geometry, land cover, screening) and the
+  Idalia/Florence case tables and trajectories.
+
+The sections below describe the original submission's pipeline, which
+is retained in `code/` and `results/` for the record.
 
 This repository is the deposit promised in the paper's Data and code
 availability statement. It contains the analysis code and the derived
