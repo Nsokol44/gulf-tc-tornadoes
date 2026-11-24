@@ -1,0 +1,4 @@
+group,n_study,strong_study,n_ext,strong_ext,share_study,share_ext,diff_pp,ci_low_pp,ci_high_pp,p_value
+pooled,1287,83,475,27,6.4,5.7,-0.8,-3.1,2.0,0.556
+gulf,973,63,329,16,6.5,4.9,-1.6,-4.1,1.6,0.29
+atlantic,314,20,146,11,6.4,7.5,1.2,-3.5,7.0,0.643

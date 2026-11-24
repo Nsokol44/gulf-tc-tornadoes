@@ -1,0 +1,1062 @@
+{
+  "dual_qualifier_storms_1995plus": [
+    {
+      "storm_id": "AL012001",
+      "storm_name": "ALLISON",
+      "year": 2001,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL012013",
+      "storm_name": "ANDREA",
+      "year": 2013,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL022004",
+      "storm_name": "BONNIE",
+      "year": 2004,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL022012",
+      "storm_name": "BERYL",
+      "year": 2012,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL032004",
+      "storm_name": "CHARLEY",
+      "year": 2004,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL032010",
+      "storm_name": "BONNIE",
+      "year": 2010,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL032021",
+      "storm_name": "CLAUDETTE",
+      "year": 2021,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL042005",
+      "storm_name": "DENNIS",
+      "year": 2005,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL042012",
+      "storm_name": "DEBBY",
+      "year": 2012,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL042024",
+      "storm_name": "DEBBY",
+      "year": 2024,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL051995",
+      "storm_name": "ERIN",
+      "year": 1995,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL051997",
+      "storm_name": "DANNY",
+      "year": 1997,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL052002",
+      "storm_name": "EDOUARD",
+      "year": 2002,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL052021",
+      "storm_name": "ELSA",
+      "year": 2021,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL062004",
+      "storm_name": "FRANCES",
+      "year": 2004,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL062006",
+      "storm_name": "ERNESTO",
+      "year": 2006,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL062008",
+      "storm_name": "FAY",
+      "year": 2008,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL062017",
+      "storm_name": "EMILY",
+      "year": 2017,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL062021",
+      "storm_name": "FRED",
+      "year": 2021,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL071998",
+      "storm_name": "GEORGES",
+      "year": 1998,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL072003",
+      "storm_name": "UNNAMED",
+      "year": 2003,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL072008",
+      "storm_name": "GUSTAV",
+      "year": 2008,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL072018",
+      "storm_name": "GORDON",
+      "year": 2018,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL072021",
+      "storm_name": "GRACE",
+      "year": 2021,
+      "coast": "atlantic",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL082001",
+      "storm_name": "GABRIELLE",
+      "year": 2001,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL092004",
+      "storm_name": "IVAN",
+      "year": 2004,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL092008",
+      "storm_name": "IKE",
+      "year": 2008,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL092012",
+      "storm_name": "ISAAC",
+      "year": 2012,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL092016",
+      "storm_name": "HERMINE",
+      "year": 2016,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL092022",
+      "storm_name": "IAN",
+      "year": 2022,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL101999",
+      "storm_name": "HARVEY",
+      "year": 1999,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL102023",
+      "storm_name": "IDALIA",
+      "year": 2023,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL111995",
+      "storm_name": "JERRY",
+      "year": 1995,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL112004",
+      "storm_name": "JEANNE",
+      "year": 2004,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL112016",
+      "storm_name": "JULIA",
+      "year": 2016,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL112017",
+      "storm_name": "IRMA",
+      "year": 2017,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL121996",
+      "storm_name": "LILI",
+      "year": 1996,
+      "coast": "gulf",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL122000",
+      "storm_name": "HELENE",
+      "year": 2000,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL122003",
+      "storm_name": "HENRI",
+      "year": 2003,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL122005",
+      "storm_name": "KATRINA",
+      "year": 2005,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL131999",
+      "storm_name": "IRENE",
+      "year": 1999,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL132002",
+      "storm_name": "LILI",
+      "year": 2002,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL132020",
+      "storm_name": "LAURA",
+      "year": 2020,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL132021",
+      "storm_name": "MINDY",
+      "year": 2021,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL132022",
+      "storm_name": "JULIA",
+      "year": 2022,
+      "coast": "atlantic",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL142018",
+      "storm_name": "MICHAEL",
+      "year": 2018,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL142024",
+      "storm_name": "MILTON",
+      "year": 2024,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL152001",
+      "storm_name": "MICHELLE",
+      "year": 2001,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL162000",
+      "storm_name": "LESLIE",
+      "year": 2000,
+      "coast": "gulf",
+      "coast_basis": "box_only"
+    },
+    {
+      "storm_id": "AL172022",
+      "storm_name": "NICOLE",
+      "year": 2022,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL192020",
+      "storm_name": "SALLY",
+      "year": 2020,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL222005",
+      "storm_name": "TAMMY",
+      "year": 2005,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL252005",
+      "storm_name": "WILMA",
+      "year": 2005,
+      "coast": "gulf",
+      "coast_basis": "landfall_ge24"
+    },
+    {
+      "storm_id": "AL292020",
+      "storm_name": "ETA",
+      "year": 2020,
+      "coast": "atlantic",
+      "coast_basis": "landfall_ge24"
+    }
+  ],
+  "box_only_storms_1995plus": [
+    {
+      "storm_id": "AL011997",
+      "storm_name": "UNNAMED",
+      "year": 1997,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012002",
+      "storm_name": "ARTHUR",
+      "year": 2002,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012003",
+      "storm_name": "ANA",
+      "year": 2003,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012004",
+      "storm_name": "ALEX",
+      "year": 2004,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012007",
+      "storm_name": "ANDREA",
+      "year": 2007,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012009",
+      "storm_name": "ONE",
+      "year": 2009,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012012",
+      "storm_name": "ALBERTO",
+      "year": 2012,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012019",
+      "storm_name": "ANDREA",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012020",
+      "storm_name": "ARTHUR",
+      "year": 2020,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012022",
+      "storm_name": "ALEX",
+      "year": 2022,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL012023",
+      "storm_name": "UNNAMED",
+      "year": 2023,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL021995",
+      "storm_name": "BARRY",
+      "year": 1995,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL021997",
+      "storm_name": "ANA",
+      "year": 1997,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL022006",
+      "storm_name": "UNNAMED",
+      "year": 2006,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL022011",
+      "storm_name": "BRET",
+      "year": 2011,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL022018",
+      "storm_name": "BERYL",
+      "year": 2018,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL022021",
+      "storm_name": "BILL",
+      "year": 2021,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL022023",
+      "storm_name": "ARLENE",
+      "year": 2023,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL031995",
+      "storm_name": "CHANTAL",
+      "year": 1995,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL031997",
+      "storm_name": "BILL",
+      "year": 1997,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032002",
+      "storm_name": "CRISTOBAL",
+      "year": 2002,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032007",
+      "storm_name": "CHANTAL",
+      "year": 2007,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032008",
+      "storm_name": "CRISTOBAL",
+      "year": 2008,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032009",
+      "storm_name": "BILL",
+      "year": 2009,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032015",
+      "storm_name": "CLAUDETTE",
+      "year": 2015,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032018",
+      "storm_name": "CHRIS",
+      "year": 2018,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL032019",
+      "storm_name": "THREE",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL041997",
+      "storm_name": "CLAUDETTE",
+      "year": 1997,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL041998",
+      "storm_name": "DANIELLE",
+      "year": 1998,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042000",
+      "storm_name": "UNNAMED",
+      "year": 2000,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042010",
+      "storm_name": "COLIN",
+      "year": 2010,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042013",
+      "storm_name": "DORIAN",
+      "year": 2013,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042014",
+      "storm_name": "CRISTOBAL",
+      "year": 2014,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042020",
+      "storm_name": "DOLLY",
+      "year": 2020,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL042025",
+      "storm_name": "DEXTER",
+      "year": 2025,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL051996",
+      "storm_name": "EDOUARD",
+      "year": 1996,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL052000",
+      "storm_name": "BERYL",
+      "year": 2000,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL052009",
+      "storm_name": "DANNY",
+      "year": 2009,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL052010",
+      "storm_name": "FIVE",
+      "year": 2010,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL052011",
+      "storm_name": "EMILY",
+      "year": 2011,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL052020",
+      "storm_name": "EDOUARD",
+      "year": 2020,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL052024",
+      "storm_name": "ERNESTO",
+      "year": 2024,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL052025",
+      "storm_name": "ERIN",
+      "year": 2025,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL062005",
+      "storm_name": "FRANKLIN",
+      "year": 2005,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL062019",
+      "storm_name": "ERIN",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL071995",
+      "storm_name": "FELIX",
+      "year": 1995,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL072006",
+      "storm_name": "FLORENCE",
+      "year": 2006,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL072010",
+      "storm_name": "EARL",
+      "year": 2010,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL072013",
+      "storm_name": "GABRIELLE",
+      "year": 2013,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082002",
+      "storm_name": "GUSTAV",
+      "year": 2002,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082005",
+      "storm_name": "HARVEY",
+      "year": 2005,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082010",
+      "storm_name": "FIONA",
+      "year": 2010,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082014",
+      "storm_name": "GONZALO",
+      "year": 2014,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082016",
+      "storm_name": "EIGHT",
+      "year": 2016,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082017",
+      "storm_name": "GERT",
+      "year": 2017,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL082025",
+      "storm_name": "HUMBERTO",
+      "year": 2025,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL092005",
+      "storm_name": "IRENE",
+      "year": 2005,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL092019",
+      "storm_name": "HUMBERTO",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL102000",
+      "storm_name": "FLORENCE",
+      "year": 2000,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL102001",
+      "storm_name": "HUMBERTO",
+      "year": 2001,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL102019",
+      "storm_name": "JERRY",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL112008",
+      "storm_name": "KYLE",
+      "year": 2008,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL122011",
+      "storm_name": "KATIA",
+      "year": 2011,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL122013",
+      "storm_name": "KAREN",
+      "year": 2013,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL122015",
+      "storm_name": "KATE",
+      "year": 2015,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL122017",
+      "storm_name": "JOSE",
+      "year": 2017,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL122020",
+      "storm_name": "KYLE",
+      "year": 2020,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL131995",
+      "storm_name": "LUIS",
+      "year": 1995,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL132001",
+      "storm_name": "KAREN",
+      "year": 2001,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL132023",
+      "storm_name": "LEE",
+      "year": 2023,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL142011",
+      "storm_name": "MARIA",
+      "year": 2011,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL142019",
+      "storm_name": "MELISSA",
+      "year": 2019,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL142020",
+      "storm_name": "MARCO",
+      "year": 2020,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL151995",
+      "storm_name": "MARILYN",
+      "year": 1995,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152004",
+      "storm_name": "NICOLE",
+      "year": 2004,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152005",
+      "storm_name": "NATE",
+      "year": 2005,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152016",
+      "storm_name": "NICOLE",
+      "year": 2016,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152017",
+      "storm_name": "MARIA",
+      "year": 2017,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152020",
+      "storm_name": "OMAR",
+      "year": 2020,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL152021",
+      "storm_name": "ODETTE",
+      "year": 2021,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL162000",
+      "storm_name": "LESLIE",
+      "year": 2000,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL162012",
+      "storm_name": "PATTY",
+      "year": 2012,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL162019",
+      "storm_name": "NESTOR",
+      "year": 2019,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL172000",
+      "storm_name": "MICHAEL",
+      "year": 2000,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL172001",
+      "storm_name": "OLGA",
+      "year": 2001,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL172010",
+      "storm_name": "OTTO",
+      "year": 2010,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL172019",
+      "storm_name": "OLGA",
+      "year": 2019,
+      "coast": "gulf"
+    },
+    {
+      "storm_id": "AL172023",
+      "storm_name": "PHILIPPE",
+      "year": 2023,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL182003",
+      "storm_name": "MINDY",
+      "year": 2003,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL192000",
+      "storm_name": "UNNAMED",
+      "year": 2000,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL192011",
+      "storm_name": "SEAN",
+      "year": 2011,
+      "coast": "atlantic"
+    },
+    {
+      "storm_id": "AL232005",
+      "storm_name": "TWENTY-TWO",
+      "year": 2005,
+      "coast": "atlantic"
+    }
+  ],
+  "coast_assignment_fallback_storms_1995plus": [
+    {
+      "storm_id": "AL072021",
+      "storm_name": "GRACE",
+      "year": 2021,
+      "coast": "atlantic",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL121996",
+      "storm_name": "LILI",
+      "year": 1996,
+      "coast": "gulf",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL132022",
+      "storm_name": "JULIA",
+      "year": 2022,
+      "coast": "atlantic",
+      "coast_basis": "landfall"
+    },
+    {
+      "storm_id": "AL162000",
+      "storm_name": "LESLIE",
+      "year": 2000,
+      "coast": "gulf",
+      "coast_basis": "box_only"
+    }
+  ],
+  "qualifying_storms_1995_2023": {
+    "atlantic": 136,
+    "gulf": 154
+  },
+  "tctor_rows_total": 1783,
+  "tctor_rows_unmatched_to_hurdat2": 0,
+  "unmatched_tc_names": [],
+  "sample_before_width_edit": 1783,
+  "sample_before_width_edit_by_coast": {
+    "gulf": 1317,
+    "atlantic": 466
+  },
+  "zero_width_dropped": 11,
+  "zero_width_dropped_by_coast": {
+    "gulf": 8,
+    "atlantic": 3
+  },
+  "coast_assignment_sensitivity_old_rule": [
+    {
+      "tc_name_clean": "DENNIS",
+      "yr": 2005,
+      "tornadoes_flipped": 10
+    },
+    {
+      "tc_name_clean": "FAY",
+      "yr": 2008,
+      "tornadoes_flipped": 49
+    },
+    {
+      "tc_name_clean": "FRED",
+      "yr": 2021,
+      "tornadoes_flipped": 31
+    },
+    {
+      "tc_name_clean": "GEORGES",
+      "yr": 1998,
+      "tornadoes_flipped": 48
+    },
+    {
+      "tc_name_clean": "GUSTAV",
+      "yr": 2008,
+      "tornadoes_flipped": 49
+    },
+    {
+      "tc_name_clean": "IKE",
+      "yr": 2008,
+      "tornadoes_flipped": 33
+    },
+    {
+      "tc_name_clean": "IRMA",
+      "yr": 2017,
+      "tornadoes_flipped": 28
+    },
+    {
+      "tc_name_clean": "ISAAC",
+      "yr": 2012,
+      "tornadoes_flipped": 31
+    },
+    {
+      "tc_name_clean": "LAURA",
+      "yr": 2020,
+      "tornadoes_flipped": 16
+    },
+    {
+      "tc_name_clean": "LILI",
+      "yr": 2002,
+      "tornadoes_flipped": 25
+    },
+    {
+      "tc_name_clean": "MICHELLE",
+      "yr": 2001,
+      "tornadoes_flipped": 2
+    }
+  ],
+  "coast_assignment_sensitivity_old_rule_total": 322,
+  "sample_final": 1772,
+  "sample_by_coast": {
+    "gulf": 1309,
+    "atlantic": 463
+  },
+  "sample_by_era": {
+    "study_1995_2015": 1287,
+    "extension_2016_2023": 485
+  },
+  "sample_by_coast_era": {
+    "atlantic|extension_2016_2023": 149,
+    "atlantic|study_1995_2015": 314,
+    "gulf|extension_2016_2023": 336,
+    "gulf|study_1995_2015": 973
+  },
+  "storms_by_coast_era": {
+    "atlantic|extension_2016_2023": 12,
+    "atlantic|study_1995_2015": 21,
+    "gulf|extension_2016_2023": 26,
+    "gulf|study_1995_2015": 55
+  }
+}

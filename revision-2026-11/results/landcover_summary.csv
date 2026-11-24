@@ -1,0 +1,10 @@
+level,coast,era,n_tornadoes,total_footprint_area_ha,intersect_wetlands_pct,area_wetlands_pct,intersect_developed_pct,area_developed_pct,intersect_forest_pct,area_forest_pct,intersect_agriculture_pct,area_agriculture_pct,intersect_water_pct,area_water_pct,intersect_other_pct,area_other_pct
+pooled,pooled,all_1995_2023,1772,89877.1,52.5,14.5,74.5,21.0,58.7,30.2,55.0,22.1,33.0,4.9,47.1,7.4
+coast,gulf,all_1995_2023,1309,64658.2,50.3,13.3,74.6,19.8,57.3,31.1,54.2,22.4,33.1,5.5,46.8,7.9
+coast,atlantic,all_1995_2023,463,25218.9,58.7,17.4,74.3,24.1,62.6,27.9,57.2,21.1,32.8,3.3,47.7,6.2
+era,pooled,study_1995_2015,1287,50795.0,48.1,15.0,67.8,17.1,54.3,30.2,51.0,23.6,31.1,5.6,43.2,8.6
+era,pooled,extension_2016_2023,485,39082.1,64.3,13.7,92.2,26.1,70.3,30.2,65.6,20.1,38.1,3.9,57.3,5.9
+coast_x_era,gulf,study_1995_2015,973,39715.0,46.7,14.5,68.6,16.6,53.6,28.0,50.9,25.7,31.7,6.5,44.1,8.6
+coast_x_era,gulf,extension_2016_2023,336,24943.2,61.0,11.4,92.0,24.8,67.9,35.9,63.7,17.2,37.2,3.8,54.8,6.8
+coast_x_era,atlantic,study_1995_2015,314,11080.0,52.5,16.8,65.6,18.6,56.4,37.9,51.3,16.0,29.3,2.1,40.4,8.5
+coast_x_era,atlantic,extension_2016_2023,149,14138.9,71.8,17.8,92.6,28.4,75.8,20.1,69.8,25.1,40.3,4.2,63.1,4.4

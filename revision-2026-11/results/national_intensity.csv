@@ -1,0 +1,4 @@
+era,total,n_rated,n_unknown,rating_0,rating_1,rating_2,rating_3,rating_4,rating_5,weak_pct,strong_pct,ef2plus_pct,deaths,injuries
+study_1995_2015,26080,26059,21,16016,7204,2085,602,138,14,89.1,10.3,10.9,1713,23979
+extension_2016_2023,9996,8961,1035,4327,3587,854,171,22,0,88.3,11.4,11.7,394,4427
+extension_2016_2025_check,13184,11659,1525,5337,4906,1136,248,31,1,87.9,11.9,12.1,513,5342

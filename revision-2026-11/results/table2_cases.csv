@@ -1,0 +1,5 @@
+storm,year,coast_stratum,primary_count_basis,primary_tornadoes,case_window_paths,total_marsh_crossed_ha,chosen_cluster_ha,outcome
+Ida,2021,gulf,TCTOR,36,36,79.7,64.4,positive case (analysed)
+Ian,2022,gulf,TCTOR,16,16,0.25,,documented exclusion (insufficient marsh)
+Helene,2024,outside climatology (2024 case only),SPC 800-km case-window rule (MD2011 subset 16),31,29,6.0,6.0,"satellite proof-of-concept case (2024, outside verified climatology)"
+Milton,2024,outside climatology (2024 case only),SPC 800-km case-window rule (MD2011 subset 42),45,45,86.4,32.2,"satellite proof-of-concept case (2024, outside verified climatology)"
